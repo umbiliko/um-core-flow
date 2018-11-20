@@ -1,2 +1,2 @@
-# um-ml
-Umbiliko ML with TensorFlow.JS
+# um-core-flow
+User module implementing machine learning with TensorFlow.JS
